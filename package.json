@@ -1,25 +1,17 @@
 {
-  "name": "friendfinder",
-  "version": "1.0.0",
-  "description": "",
-  "main": "apiRoute.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Rcode06/FriendFinder.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Rcode06/FriendFinder/issues"
-  },
-  "homepage": "https://github.com/Rcode06/FriendFinder#readme",
+  "name": "idea",
+  "version": "0.1.0",
+  "private": true,
   "dependencies": {
-    "body-parser": "^1.18.2",
-    "express": "^4.16.2",
-    "path": "^0.12.7"
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-scripts": "1.0.17",
+    "vuetify": "^0.17.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
   }
 }
