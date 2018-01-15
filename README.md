@@ -6,10 +6,10 @@
 *It will store everything in the database the photos
 
 *Welcome to the application 
-![Screenshot](friendscreenshot.jpg)
+![Screenshot](public/friendscreenshot.jpg)
 
 *Please answer the survey
-![Screenshot](friendscreenshot.jpg)
+![Screenshot](public/friendscreenshot.jpg)
 
 ## Author
 
